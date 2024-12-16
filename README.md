@@ -1,6 +1,6 @@
 # Jan Vaorin
 
-*Architecting cloud solutions* | Corgi dad 🦊 | Coffee enthusiast ☕ | Bouldering 🧗‍♂️| Building [Corgi.Wiki](https://corgi.wiki)
+*Architecting cloud solutions* | Corgi dad 🦊 | Coffee enthusiast ☕ | Cooking 🍜 [rezepte](https://rezepte.corgijan.dev)|  Bouldering 🧗‍♂️| Building [Corgi.Wiki](https://corgi.wiki)
 
 Cloud ☁️  | Cybersecurity | Kubernetes 🎡 | CI/CD ⚡| IAC 🏗️ | PostgreSQL 🐘 | Redis 🔆 | Dragonite 🐉 | Docker 🐳 | Eevee ✨ | Rust 🦀 | Python 🐍 | Java ☕
 
