@@ -5,4 +5,4 @@
 Cloud ☁️  | Cybersecurity | Kubernetes 🎡 | CI/CD ⚡| IAC 🏗️ | PostgreSQL 🐘 | Redis 🔆 | Dragonite 🐉 | Docker 🐳 | Eevee ✨ | Rust 🦀 | Python 🐍 | Java ☕  
 - this one is for the recruiters
 
-📫 Connect | [LinkedIn](https://www.linkedin.com/in/jan-vaorin-a8b87629b/) | [Corgi.Wiki](https://corgi.wiki)
+📫 Connect | [LinkedIn](https://www.linkedin.com/in/jan-vaorin-a8b87629b/) | [Corgi.Wiki](https://corgi.wiki)| [Blog](https://corgijan.dev)
