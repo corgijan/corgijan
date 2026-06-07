@@ -6,7 +6,6 @@ Cloud ☁️ | Infra | Cybersecurity | Kubernetes 🎡 | CI/CD ⚡| IAC 🏗️ 
 - this one is for the recruiters
 
 <img width="467" height="195" alt="image" src="https://github.com/user-attachments/assets/d03a784f-5cb3-4a0e-a730-8218722d9b5b" />
-<img width="495" height="195" alt="image" src="https://github.com/user-attachments/assets/ad1b8d51-8b86-4082-91a5-fdd7ad278d7d" />
 
   
 
